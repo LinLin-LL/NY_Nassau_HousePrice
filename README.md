@@ -18,7 +18,7 @@
 *	Extracted year, month, day from sales date 
 
 ## EDA
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights. 
 
 ![alt text](https://github.com/LinLin-LL/NY_Nassau_HousePrice/blob/master/city.png "Sales by City")
 ![alt text](https://github.com/LinLin-LL/NY_Nassau_HousePrice/blob/master/y.png "House prices")
